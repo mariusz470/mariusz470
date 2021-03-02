@@ -22,4 +22,5 @@ Node.js, SQL databases, TypeScript
 ### 📫 How to reach me: ...
 
 Visit my portfolio page and fill in the contact form
+<br>
 [My Portfolio](https://mariuszkicinski.herokuapp.com/)
